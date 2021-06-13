@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Anitas Kitchen </title>
+        <link herf="style.css rel="stylesheet" type="text/css" 
+
+    </head>
+    <body>
+        <header>
+            <div class="row">
+            <ul class"main-nav" 
+
+            </ul>
+            </div>
+    <div id="nav">
+         <nav>
+             <div id="background">
+                 <img src=" 
+             <p>logo</p>>
+            <ul>
+                <li>HOme</li>
+                <li>About</li>
+                <li>Contacats</li>
+             </ul>
+             </nav>
+    </div>
+            <div id="about">
+                <h1>About Us</h1>
+                <p> we are located along fema road in the village city,
+                    we offer fresh easy fast food at an affordable price,
+                    you can also make online orders and we will deliver right at your
+                    convinience.We also do outside catering nd we can make snack at your
+                    gatherings.
+
+    </p>
+            </div>
+                <div>
+                   <div id="Product">
+                       <div id="Good food">
+                        <img src="x-special/nautilus-clipboard
+                        copy
+                        file:///home/moringa/Desktop/images/drink1.jpg
+                        " height="300px" width="300px">  
+                       </div>
+                   </div>
