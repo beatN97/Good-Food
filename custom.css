@@ -1,0 +1,46 @@
+.container{
+    margin:20px 70px 0px 70px;
+}
+header{
+    background-color: #f12829;
+    height: 200px;
+    color: white ;
+    text-align: center;
+    
+}
+.box{
+    float: left;
+    width: 25%;
+}
+
+#image3{
+    float: left;
+    margin: 20px;
+}
+#image4{
+    float: right;
+    margin: 20px;
+}
+
+.product{
+    float: left;
+}
+
+#first-row, #second-row{
+    float: left;
+}
+
+#happy{
+    background-color: gray;
+}
+#breakfast{
+    background-image: url("images/drinks.jpeg");
+    color: white;
+}
+#lunch{
+    background-image: url("images/fast_food.jpeg");
+}
+#supper{
+    background-image: url("images/drinks.jpeg");
+    color: white;
+}
